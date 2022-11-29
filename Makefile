@@ -1,4 +1,4 @@
-BUILD_DIR = ./buld
+BUILD_DIR = ./build
 
 prepare:
 	mkdir -p $(BUILD_DIR)
